@@ -106,7 +106,7 @@ require('jit-grunt')(grunt, {
 
 #### cwd
 
-Type: `Strong`
+Type: `String`
 Default: `process.cwd()`
 
 All plugins and tasks are resolved relative to this path.
